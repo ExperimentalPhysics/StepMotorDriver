@@ -1,0 +1,10 @@
+ 
+# ignore db files
+*/db/*
+*/incremental_db/*
+# ignore output files and simulation
+*/output_files/*
+*/simulation/*
+
+# verilog backup files
+*.bak
